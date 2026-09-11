@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research-design artifact, please cite it using the metadata in this file."
+title: "ORB Readiness Research"
+type: software
+authors:
+  - family-names: Holmes
+    given-names: "Jason V."
+    orcid: "https://orcid.org/0009-0007-2898-8478"
+version: 0.1.0
+date-released: 2026-09-11
+url: "https://github.com/jvholmes87/orb-readiness-research"
+repository-code: "https://github.com/jvholmes87/orb-readiness-research"
+license: CC-BY-4.0
+keywords:
+  - supplier readiness
+  - qualification burden
+  - documentation burden
+  - aerospace supply chain
+  - small business
+  - systems engineering
