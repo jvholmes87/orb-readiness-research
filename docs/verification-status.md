@@ -4,7 +4,7 @@
 
 This register records the verification status of claims relevant to the proposed ORB supplier-readiness study. It is descriptive. A status of `Not located` means the stated record was not located in the listed search locations by the check date.
 
-No entry establishes wrongdoing, intent, partnership, project control, or study authority. Restricted correspondence is cited at the government-office level and is not reproduced.
+No entry establishes wrongdoing, intent, partnership, project control, study authority, or scholarly novelty. Restricted correspondence is cited at the government-office level and is not reproduced.
 
 ## Status definitions
 
@@ -13,6 +13,7 @@ No entry establishes wrongdoing, intent, partnership, project control, or study 
 | `Verified` | A primary official source directly supports the bounded claim. |
 | `Partially verified` | A source supports part of the claim, while another material part remains unsupported or unavailable. |
 | `Not located` | The stated evidence was not found in the listed public records as of the check date. |
+| `Not established` | The claim requires a separate research or verification process that has not yet been completed. |
 
 ## Register
 
@@ -25,6 +26,20 @@ No entry establishes wrongdoing, intent, partnership, project control, or study 
 | VS-005 | The Michoud corridor study exists and is in Phase IV, and its full recommendations are publicly available. | `Partially verified` | A/X | 3 September 2026 | City of New Orleans Office of Economic Development written confirmation; reviewed public city records | Study existence and Phase IV status were confirmed. The underlying study contents and recommendations were not located in public records as of 3 September 2026. |
 | VS-006 | A public EAST Task Force charter and roster identify its authority and membership. | `Not located` | X | 3 September 2026 | Reviewed city executive-order materials, council materials, and Office of Economic Development records | A charter and roster were not located in public records as of 3 September 2026. |
 | VS-007 | A public development-ready property inventory exists for the corridor. | `Not located` | X | 3 September 2026 | Reviewed city and economic-development materials | The stated inventory was not located in public records as of 3 September 2026. |
+| VS-008 | ORB's proposed documentation/qualification-burden mechanism represents an unexplored scholarly research gap. | `Not established` | — | 11 September 2026 | Literature review not yet completed | A practical problem and working hypothesis are documented, but scholarly novelty cannot be claimed until the literature review determines what is already established and what remains unresolved. |
+
+## Research-gap control
+
+`VS-008` is intentionally separate from the office and public-record claims above. A faculty discussion, practitioner observation, or internal project finding does not verify scholarly novelty. Novelty requires a literature-grounded comparison with prior research.
+
+Until that review is complete:
+
+- do not describe the ORB mechanism as unexplored or novel;
+- do not finalize the research codebook solely from internal terminology;
+- do not present the current design as dissertation-ready;
+- do use the literature review to revise constructs, units of analysis, and instruments.
+
+See [`literature-review-plan.md`](literature-review-plan.md).
 
 ## Source notes
 
