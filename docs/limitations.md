@@ -6,6 +6,14 @@ ORB remains in requirements gathering. No fieldwork has been conducted. No entit
 
 ORB has no authority to certify or qualify a firm. It does not represent an incorporated organization and has no established partnership, sponsorship, or institutional affiliation.
 
+## Scholarly gap not yet established
+
+The repository documents a practical research problem and a proposed mechanism, but it does not yet establish that the mechanism is unexplored in the scholarly literature.
+
+Relevant bodies of work may already address major portions of the proposed problem, including construction rework causation and cost, RFI and submittal-processing latency, defect and nonconformance taxonomies, requirements volatility, supplier qualification, and regulatory or compliance burden borne by small firms.
+
+A focused literature review therefore precedes instrument finalization, taxonomy expansion, or any claim that ORB represents a novel doctoral contribution. If established research already explains the proposed mechanism, the research question will be narrowed or revised rather than relabeling existing knowledge as novel.
+
 ## No empirical supplier findings
 
 The repository contains a proposed method and verified contextual claims. It contains no firm assessment, qualification decision, intervention result, contract outcome, or longitudinal observation. The working argument about documentation burden remains a hypothesis.
@@ -16,11 +24,19 @@ No sampling frame has been constructed and no participant has been recruited. Th
 
 ## No field-tested instrument
 
-The assessment domains and instruments have not been piloted with firms or reviewed by an external adjudicator. Definitions, scoring, burden, and evidence criteria may change during instrument development. No inter-rater reliability, construct validity, or test-retest reliability has been measured.
+The assessment domains and instruments have not been piloted with firms or reviewed by an external adjudicator. Definitions, scoring, burden, and evidence criteria may change during literature review and instrument development. No inter-rater reliability, construct validity, or test-retest reliability has been measured.
+
+The current framework is therefore a proposed coding and evidence architecture, not a validated instrument.
+
+## Provisional unit of analysis
+
+The current research design proposes the **firm-opportunity pair** as the primary unit of analysis because a firm's qualification burden can differ across buyers, products, contracts, and supply-chain tiers.
+
+That choice remains provisional until the literature review confirms whether the construct is theoretically and empirically appropriate and whether nested units such as requirement, evidence item, review event, package, or firm are needed.
 
 ## Opportunity specificity
 
-Qualification requirements vary by buyer, product, contract, risk, data environment, and supply-chain tier. A readiness result for one opportunity may not transfer to another. The design therefore uses the firm-opportunity pair as its proposed unit of analysis.
+Qualification requirements vary by buyer, product, contract, risk, data environment, and supply-chain tier. A readiness result for one opportunity may not transfer to another. The design therefore avoids treating a firm as universally “ready” or “not ready.”
 
 ## Source coverage
 
@@ -30,7 +46,7 @@ Some verified findings rely on government-office correspondence retained in a re
 
 ## Program-data limits
 
-The NASA Office of Small Business Programs confirmed that program-specific outcome data had not been published as of August 2026. Broader procurement databases do not by themselves identify program participation or outcomes. ORB therefore has no basis for estimating program effectiveness from the currently verified data.
+The NASA Office of Small Business Programs confirmed that program-specific outcome data had not been published as of the reviewed 2026 correspondence. Broader procurement databases do not by themselves identify program participation or outcomes. ORB therefore has no basis for estimating program effectiveness from the currently verified data.
 
 The office description of a small participant set supports no exact count, rate, or causal explanation. The intended revitalization supports no effectiveness claim until outcomes are defined and observed.
 
@@ -46,10 +62,12 @@ Future changes in documentation readiness could reflect selection, buyer require
 
 Future empirical work would require:
 
+- Completion of the literature review and an explicit, source-grounded research-gap statement
+- A defensible unit of analysis and construct definitions
 - A defined sampling frame and documented recruitment process
 - Opportunity-specific requirement sources and eligibility rules
 - Piloted instruments with version-controlled scoring guidance
-- Independent review and inter-rater reliability testing
+- Independent review and inter-rater reliability testing where coding reliability is claimed
 - Baseline and follow-up observations using stable definitions
 - Clear separation of self-reported, researcher-verified, and externally adjudicated evidence
 - A comparison or phased design for causal questions
