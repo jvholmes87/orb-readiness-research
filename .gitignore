@@ -26,3 +26,10 @@ participant-data/
 site/
 build/
 dist/
+
+# Local secrets: templates must contain invented placeholders only.
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
